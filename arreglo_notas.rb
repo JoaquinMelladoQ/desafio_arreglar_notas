@@ -12,4 +12,4 @@ qualifications.each do |elements|
     end
 end
 
-print (new_qualification.sum / new_qualification.count.to_f)
+print (new_qualification.sum / new_qualification.count)
